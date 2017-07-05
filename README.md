@@ -9,8 +9,8 @@ Usage:
 <c:RN_Generic_lightning_Lookup sObjectAPIName="Account" sObjectLabelName="accounts"/>
 ```
 
-sObjectAPIName: The API name of the SObject to search
-sObjectLabelName: It will display the label of search items.
+sObjectAPIName: The API name of the SObject to search.<br/>
+sObjectLabelName: It will display the label of search items.<br/><br/>
 
 
 Check this sObjectId attribute to get the selected value. 
