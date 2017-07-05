@@ -17,5 +17,5 @@ Check this sObjectId attribute to get the selected value.
 
 Watch Demo here: 
 
-[![Alt text](http://makeagif.com/i/h_T54A)](https://screencast-o-matic.com/watch/cbihXrl2bg)
+[![Alt text](https://makeagif.com/i/h_T54A)](https://screencast-o-matic.com/watch/cbihXrl2bg)
 
