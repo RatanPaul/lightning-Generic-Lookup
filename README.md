@@ -17,5 +17,5 @@ Check this sObjectId attribute to get the selected value.
 
 Watch Demo here: 
 
-[![Alt text](https://makeagif.com/i/h_T54A)](https://screencast-o-matic.com/watch/cbihXrl2bg)
+[![Alt text](https://raw.githubusercontent.com/RatanPaul/lightning-Generic-Lookup/master/gif/h_T54A.gif)](https://screencast-o-matic.com/watch/cbihXrl2bg)
 
